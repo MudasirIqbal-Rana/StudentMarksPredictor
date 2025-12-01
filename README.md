@@ -1,4 +1,4 @@
-# Cradit_Card_Fraud_detection
+# Student Marks Predictor
 📘 Student Marks Predictor (Machine Learning + Tkinter GUI)
 
 This project predicts a student's expected marks based on their daily study hours using a Linear Regression Machine Learning model.
