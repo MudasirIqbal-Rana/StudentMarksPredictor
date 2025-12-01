@@ -16,4 +16,4 @@ if st.button("Predict Marks"):
         st.warning("Please enter the student's name.")
     else:
         prediction = model.predict([[hours]])[0]
-        st.success(f"{name}'s Predicted Marks is: {prediction:.2f}")
+        st.success(f"{name}'s Predicted Marks is: {prediction:.2f}%")
